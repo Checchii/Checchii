@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate programmer who aspires to be a software engineer someday :)</h3>
 
-- 🔭 I’m currently working on my Master's Capstone project. Using GameMaker engine to recreate a Legend of Zelda spin off with more of an emphasis on dungeon exploration. **Legend of Soma**
+- 🔭 I’m currently working on my Master's Capstone project. Using GameMaker engine to recreate a Legend of Zelda spin off with more of an emphasis on dungeon exploration. **Dungeons of Aria**
 
-- 🌱 I’m currently learning **JavaScript, Full-Stack web development.**
+- 🌱 I’m currently learning **JavaScript, React, Full-Stack web development.**
 
 - 📫 How to reach me **sebastian.checchi@gmail.com**
 
