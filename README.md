@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on completing Codecademy's Full-Stack Engineer Career Path
    <div align="center" style="width: 80%; margin-top: 10px;">
-    <div style="background-color: #e0e0e0; border-radius: 20px; padding: 3px; width: 100%;">
-      <div style="background-color: #4caf50; width: 49%; height: 20px; border-radius: 15px; text-align: right; padding-right: 10px; color: white;">
+    <div style="background-color: #f2f0f0; border-radius: 20px; padding: 3px; width: 100%;">
+      <div style="background-color: #b0d13b; width: 49%; height: 20px; border-radius: 15px; text-align: right; padding-right: 10px; color: white;">
         49%
       </div>
     </div>
