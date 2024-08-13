@@ -2,6 +2,13 @@
 <h3 align="center">A passionate programmer who aspires to be a software engineer someday :)</h3>
 
 - 🔭 I’m currently working on completing Codecademy's Full-Stack Engineer Career Path
+   <div align="center" style="width: 80%; margin-top: 10px;">
+    <div style="background-color: #e0e0e0; border-radius: 20px; padding: 3px; width: 100%;">
+      <div style="background-color: #4caf50; width: 49%; height: 20px; border-radius: 15px; text-align: right; padding-right: 10px; color: white;">
+        49%
+      </div>
+    </div>
+  </div>
 - 🌱 I’m currently learning **JavaScript, React, Redux, Express.js and PostgreSQL.**
 
 - 📫 How to reach me **sebastian.checchi@gmail.com**
