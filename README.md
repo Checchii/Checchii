@@ -2,13 +2,8 @@
 <h3 align="center">A passionate programmer who aspires to be a software engineer someday :)</h3>
 
 - 🔭 I’m currently working on completing Codecademy's Full-Stack Engineer Career Path
-   <div align="center" style="width: 80%; margin-top: 10px;">
-    <div style="background-color: #f2f0f0; border-radius: 20px; padding: 3px; width: 100%;">
-      <div style="background-color: #b0d13b; width: 49%; height: 20px; border-radius: 15px; text-align: right; padding-right: 10px; color: white;">
-        49%
-      </div>
-    </div>
-  </div>
+   ![Progress](https://img.shields.io/badge/Progress-49%25-yellow?style=for-the-badge&logo=%231F4056&logoColor=navy&logoSize=auto&labelColor=yellowgreen&color=gray
+)
 - 🌱 I’m currently learning **JavaScript, React, Redux, Express.js and PostgreSQL.**
 
 - 📫 How to reach me **sebastian.checchi@gmail.com**
