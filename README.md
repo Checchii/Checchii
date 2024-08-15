@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on completing Codecademy's Full-Stack Engineer Career Path
   
-   ![Progress](https://img.shields.io/badge/49%25-100%25-yellow?style=for-the-badge&logo=%231F4056&logoColor=navy&logoSize=auto&labelColor=yellowgreen&color=gray)
+   ![Progress](https://img.shields.io/badge/50%25-100%25-yellowgreen?style=for-the-badge&logo=codecademy&logoColor=navy&logoSize=auto&labelColor=yellowgreen&color=gray)
   
 - 🌱 I’m currently learning **JavaScript, React, Redux, Express.js and PostgreSQL.**
 
