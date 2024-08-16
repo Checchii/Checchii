@@ -5,7 +5,7 @@
   
    ![Progress](https://img.shields.io/badge/50%25-100%25-yellowgreen?style=for-the-badge&logo=codecademy&logoColor=navy&logoSize=auto&labelColor=yellowgreen&color=gray)
   
-- 🌱 I’m currently learning **JavaScript, React, Redux, Express.js and PostgreSQL.**
+- 🌱 I’m currently learning **Node.js, Express.js and PostgreSQL.**
 
 - 📫 How to reach me **sebastian.checchi@gmail.com**
 
