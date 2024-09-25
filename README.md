@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate programmer who aspires to be a software engineer someday :)</h3>
 
-- 🔭 I’m currently working on completing Codecademy's Full-Stack Engineer Career Path
+- 🔭 I recently completed Codecademy's Full-Stack Engineer Career Path and earned a Professional Certification
   
    ![Progress](https://img.shields.io/badge/100%25-green?logo=codecademy&logoColor=%231F4056&labelColor=green&color=green)
   
-- 🌱 I’m currently learning **Node.js, Express.js and PostgreSQL.**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **sebastian.checchi@gmail.com**
 
