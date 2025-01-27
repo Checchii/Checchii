@@ -5,7 +5,8 @@
   
    ![Progress](https://img.shields.io/badge/100%25-green?logo=codecademy&logoColor=%231F4056&labelColor=green&color=green)
   
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Leetcode**
+- 👨‍💻 I'm currently working on **Building an E-commerce website**
 
 
 <h3 align="left">Connect with me:</h3>
