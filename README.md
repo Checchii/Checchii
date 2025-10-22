@@ -7,7 +7,7 @@
 - Recently completed **Codecademy's Full-Stack Engineer Career Path** and earned a professional certification  
   ![Progress](https://img.shields.io/badge/100%25-green?logo=codecademy&logoColor=%231F4056&labelColor=green&color=green)
 - Currently learning **Java** and practicing **LeetCode problems**
-- Interested in **FullStack Development**, **Web Apps**, and **Automation Projects**
+- Interested in **Backend Development**, **Web Apps**, and **Automation Projects**
 - Open to **collaboration, networking, and interesting challenges**
 
 ---
@@ -67,8 +67,17 @@
 
 ---
 
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Checchii&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Checchii&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Checchii&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/sebastian-checchi" target="_blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
-  <a href="mailto:youremail@example.com" target="_blank" title="Email"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email"/></a>
+  <a href="mailto:sebastian@sebastianchecchi.com" target="_blank" title="Email"><img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email"/></a>
 </p>
