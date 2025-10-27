@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate programmer aspiring to become a software engineer</h3>
 
 ---
 
