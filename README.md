@@ -5,7 +5,7 @@
 ### 🔭 About Me
 - Recently completed **Codecademy's Full-Stack Engineer Career Path** and earned a professional certification  
   ![Progress](https://img.shields.io/badge/100%25-green?logo=codecademy&logoColor=%231F4056&labelColor=green&color=green)
-- Currently learning **Java** and practicing **LeetCode problems**
+- Currently learning **Java**, **Python**, **Golang** and practicing **LeetCode problems**
 - Interested in **Backend Development**, **Web Apps**, and **Automation Projects**
 - Open to **collaboration, networking, and interesting challenges**
 
